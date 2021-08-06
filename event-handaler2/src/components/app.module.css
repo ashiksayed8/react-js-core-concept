@@ -1,0 +1,15 @@
+.wrapper {
+    display: grid;
+    justify-content: center;
+}
+.btn {
+    padding: 10px;
+    color: white;
+    background-color: red;
+    font-weight: 500;
+    border-radius: 10px;
+}
+.TextField {
+    width: 100%;
+    padding: 10px;
+}
